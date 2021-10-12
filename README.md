@@ -8,4 +8,4 @@
  - create context **AuthProvider** and provide custom-hook all functionalities inside context file
  - create **useAuth** custom-hook to call **useContext**
  - use **useAuth** instead of **useFirease**
-
+ - implement private route 
